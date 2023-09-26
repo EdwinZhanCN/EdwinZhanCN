@@ -33,7 +33,6 @@ But I still want to give you some information,**in case you want to inquire abou
 </p>
 
 **FUTURE STUDY PLAN**
-
 <p>
     <img src="/image/vue-9.svg" width="30" height="30">
     <img src="/image/bootstrap-5-1.svg" width="30" height="30">
