@@ -2,7 +2,7 @@
 ### There is nothing worth seeing here
 But I still want to give you some information,**in case you want to inquire about my composition**.
 
-**Here is some computer pragramming language I taught myself**
+**HERE IS SOME COMPUTER PROGRAMMING LANGUAGES I TAUGHT MYSELF**
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
         <img src = "/image/logo-javascript.svg" alt="java-script-icon" width = "30" height="30">
