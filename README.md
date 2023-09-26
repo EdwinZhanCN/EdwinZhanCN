@@ -4,6 +4,24 @@
     <meta charset="UTF-8">
     <link href="myPage-sample.css" rel="stylesheet" type="text/css">
 </head>
+<style>
+    *{
+        margin: 0;
+    }
+    
+    .language-holder{
+        display: flex;
+        width: auto;
+        padding-left: 10px;
+    }
+    .Icon-holder{
+        padding: 3px;
+        display: block;
+        cursor: pointer;
+        border-radius: 5px;
+        box-shadow: 0 3px 6px black;
+    }
+</style>
 <body>
     <div class = "language-holder">
         <div class = "Icon-holder">
