@@ -40,4 +40,7 @@ But I still want to give you some information,**in case you want to inquire abou
     <img src="/image/spring-3.svg" width="30" height="30">
 </p>
 
+**Beautiful logos are found here**
+https://worldvectorlogo.com/
+
 
