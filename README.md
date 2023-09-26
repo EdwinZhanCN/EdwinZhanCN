@@ -1,7 +1,8 @@
 ## Welcome to my github page
 ### There is nothing worth seeing here
 But I still want to give you some information,**in case you want to inquire about my composition**.
-**Here is some computer pragramming language I taught myself**
+
+**HERE IS SOME COMPUTER PROGRAMMING LANGUAGES I TAUGHT MYSELF**
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
         <img src = "/image/logo-javascript.svg" alt="java-script-icon" width = "30" height="30">
@@ -18,8 +19,28 @@ But I still want to give you some information,**in case you want to inquire abou
     <a href="https://dev.java">
         <img src = "/image/java-4.svg" alt="java-icon" width = "30" height="30">
     </a>
-    <a>
+    <a href = "https://python.org">
         <img src="/image/python-5.svg" alt="python-icon" width="30" height="30">
     </a>
 </div>
+
+**DEVELOPER TOOLS I USED**
+<div>
+    <img src="/image/xcode.png" width="30" height="30">
+    <img src="/image/intellij-idea-1.svg" width="30" height="30">
+    <img src="/image/visual-studio-code-1.svg" width="30" height="30">
+    <img src="/image/webstorm-icon.svg" width="30" height="30">
+</div>
+
+**FUTURE STUDY PLAN**
+<div>
+    <img src="/image/vue-9.svg" width="30" height="30">
+    <img src="/image/bootstrap-5-1.svg" width="30" height="30">
+    <img src="/image/spring-3.svg" width="30" height="30">
+    <img src="/image/c .svg" width = "30" height = "30">
+</div>
+
+**Beautiful logos are found here**
+https://worldvectorlogo.com/
+
 
