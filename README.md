@@ -25,19 +25,20 @@ But I still want to give you some information,**in case you want to inquire abou
 </div>
 
 **DEVELOPER TOOLS I USED**
-<p>
+<div>
     <img src="/image/xcode.png" width="30" height="30">
     <img src="/image/intellij-idea-1.svg" width="30" height="30">
     <img src="/image/visual-studio-code-1.svg" width="30" height="30">
     <img src="/image/webstorm-icon.svg" width="30" height="30">
-</p>
+</div>
 
 **FUTURE STUDY PLAN**
-<p>
+<div>
     <img src="/image/vue-9.svg" width="30" height="30">
     <img src="/image/bootstrap-5-1.svg" width="30" height="30">
     <img src="/image/spring-3.svg" width="30" height="30">
-</p>
+    <img src="/image/c .svg" width = "30" height = "30">
+</div>
 
 **Beautiful logos are found here**
 https://worldvectorlogo.com/
