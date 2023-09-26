@@ -37,7 +37,7 @@ But I still want to give you some information,**in case you want to inquire abou
     <img src="/image/vue-9.svg" width="30" height="30">
     <img src="/image/bootstrap-5-1.svg" width="30" height="30">
     <img src="/image/spring-3.svg" width="30" height="30">
-    <img src="/image/c .svg" width = "30" height = "30">
+    <img src="/image/c.svg" width = "30" height = "30">
 </div>
 
 **Beautiful logos are found here**
