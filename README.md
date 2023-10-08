@@ -32,6 +32,12 @@ But I still want to give you some information,**in case you want to inquire abou
     <img src="/image/webstorm-icon.svg" width="30" height="30">
 </div>
 
+**TECHNOLOGY STACK**
+<div>
+    <img src="/image/spring-3.svg" width="30" height="30">
+    <img src="/image/vue-9.svg" width="30" height="30">
+</div>
+
 **FUTURE STUDY PLAN**
 <div>
     <img src="/image/vue-9.svg" width="30" height="30">
@@ -77,11 +83,15 @@ https://worldvectorlogo.com/
     <img src="/image/webstorm-icon.svg" width="30" height="30">
 </div>
 
-**学习计划**
+**技术栈**
 <div>
-    <img src="/image/vue-9.svg" width="30" height="30">
-    <img src="/image/bootstrap-5-1.svg" width="30" height="30">
     <img src="/image/spring-3.svg" width="30" height="30">
+    <img src="/image/vue-9.svg" width="30" height="30">
+</div>
+
+**学习计划**
+<div> 
+    <img src="/image/bootstrap-5-1.svg" width="30" height="30">
     <img src="/image/c.svg" width = "30" height = "30">
 </div>
 
