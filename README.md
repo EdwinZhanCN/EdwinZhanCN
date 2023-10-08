@@ -24,7 +24,7 @@ But I still want to give you some information,**in case you want to inquire abou
     </a>
 </div>
 
-**DEVELOPER TOOLS I USED(Bsic)**
+**DEVELOPER TOOLS I USED(BASIC)**
 <div>
     <img src="/image/xcode.png" width="30" height="30">
     <img src="/image/intellij-idea-1.svg" width="30" height="30">
@@ -32,7 +32,7 @@ But I still want to give you some information,**in case you want to inquire abou
     <img src="/image/webstorm-icon.svg" width="30" height="30">
 </div>
 
-**TECHNOLOGY STAC(Bsic)K**
+**TECHNOLOGY STACK(BASIC)**
 <div>
     <img src="/image/spring-3.svg" width="30" height="30">
     <img src="/image/vue-9.svg" width="30" height="30">
