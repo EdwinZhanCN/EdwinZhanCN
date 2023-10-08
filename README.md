@@ -24,7 +24,7 @@ But I still want to give you some information,**in case you want to inquire abou
     </a>
 </div>
 
-**DEVELOPER TOOLS I USED**
+**DEVELOPER TOOLS I USED(Bsic)**
 <div>
     <img src="/image/xcode.png" width="30" height="30">
     <img src="/image/intellij-idea-1.svg" width="30" height="30">
@@ -32,7 +32,7 @@ But I still want to give you some information,**in case you want to inquire abou
     <img src="/image/webstorm-icon.svg" width="30" height="30">
 </div>
 
-**TECHNOLOGY STACK**
+**TECHNOLOGY STAC(Bsic)K**
 <div>
     <img src="/image/spring-3.svg" width="30" height="30">
     <img src="/image/vue-9.svg" width="30" height="30">
@@ -40,9 +40,7 @@ But I still want to give you some information,**in case you want to inquire abou
 
 **FUTURE STUDY PLAN**
 <div>
-    <img src="/image/vue-9.svg" width="30" height="30">
     <img src="/image/bootstrap-5-1.svg" width="30" height="30">
-    <img src="/image/spring-3.svg" width="30" height="30">
     <img src="/image/c.svg" width = "30" height = "30">
 </div>
 
@@ -75,7 +73,7 @@ https://worldvectorlogo.com/
     </a>
 </div>
 
-**开发工具**
+**开发工具(基础)**
 <div>
     <img src="/image/xcode.png" width="30" height="30">
     <img src="/image/intellij-idea-1.svg" width="30" height="30">
@@ -83,13 +81,13 @@ https://worldvectorlogo.com/
     <img src="/image/webstorm-icon.svg" width="30" height="30">
 </div>
 
-**技术栈**
+**技术栈(基础)**
 <div>
     <img src="/image/spring-3.svg" width="30" height="30">
     <img src="/image/vue-9.svg" width="30" height="30">
 </div>
 
-**学习计划**
+**学习计划(基础)**
 <div> 
     <img src="/image/bootstrap-5-1.svg" width="30" height="30">
     <img src="/image/c.svg" width = "30" height = "30">
