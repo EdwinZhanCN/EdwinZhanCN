@@ -2,7 +2,7 @@
 ### There is nothing worth seeing here
 But I still want to give you some information,**in case you want to inquire about my composition**.
 
-**HERE IS SOME COMPUTER PROGRAMMING LANGUAGES I TAUGHT MYSELF**
+**HERE IS SOME COMPUTER PROGRAMMING LANGUAGES I TAUGHT MYSELF(BASIC)**
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
         <img src = "/image/logo-javascript.svg" alt="java-script-icon" width = "30" height="30">
@@ -51,7 +51,7 @@ https://worldvectorlogo.com/
 ### 这里没有什么值得你看的
 **如果你想查我的成分**，我还是愿意给你提供一些信息。
 
-**自学的计算机语言**
+**自学的计算机语言(基础)**
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
         <img src = "/image/logo-javascript.svg" alt="java-script-icon" width = "30" height="30">
@@ -87,7 +87,7 @@ https://worldvectorlogo.com/
     <img src="/image/vue-9.svg" width="30" height="30">
 </div>
 
-**学习计划(基础)**
+**学习计划**
 <div> 
     <img src="/image/bootstrap-5-1.svg" width="30" height="30">
     <img src="/image/c.svg" width = "30" height = "30">
