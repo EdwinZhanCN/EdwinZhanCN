@@ -1,7 +1,7 @@
 ## Welcome to my github page
 ***University of Bilibili, Class of 2027***
 
-**Getting touch with: **
+**Getting touch with:**
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
         <img src = "/image/logo-javascript.svg" alt="java-script-icon" width = "30" height="30">
