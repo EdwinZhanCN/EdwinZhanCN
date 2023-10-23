@@ -33,9 +33,8 @@
     <img src="/image/spring-3.svg" width="30" height="30">
     <img src="/image/vue-9.svg" width="30" height="30">
 </div>
-
-**FUTURE STUDY PLAN**
 <div>
+    <img src = "image/cc.svg" width  = "30" height = "30">
     <img src="/image/c.svg" width = "30" height = "30">
 </div>
 
