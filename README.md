@@ -1,4 +1,4 @@
-![kotlin-1](https://github.com/EdwinZhanCN/EdwinZhanCN/assets/108310800/3a0fc52c-dfd7-4ec5-8705-a15bf6d80eff)## Welcome to my github page
+## Welcome to my github page
 ***University of Bilibili, Class of 2027***
 
 **Getting touch with:**
