@@ -29,6 +29,7 @@
 <div>
     <img src="/image/spring-3.svg" width="30" height="30">
     <img src="/image/vue-9.svg" width="30" height="30">
+    <img src="/image/docker-4.svg" width = "30" height = "30">
 </div>
 
 **Future plan**
