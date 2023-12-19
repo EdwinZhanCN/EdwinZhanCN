@@ -41,7 +41,7 @@
 
 
 -----------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinZhanCN&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinZhanCN&langs_count=8)
 
 **Beautiful logos are found here**
 https://worldvectorlogo.com/
