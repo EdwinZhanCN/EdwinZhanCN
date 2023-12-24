@@ -29,6 +29,7 @@
 <div>
     <img src="/image/spring-3.svg" width="30" height="30">
     <img src="/image/vue-9.svg" width="30" height="30">
+    <img src="/image/docker-4.svg" width = "30" height = "30">
 </div>
 
 **Future plan**
@@ -40,7 +41,7 @@
 
 
 -----------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinZhanCN&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinZhanCN&langs_count=8)
 
 **Beautiful logos are found here**
 https://worldvectorlogo.com/
