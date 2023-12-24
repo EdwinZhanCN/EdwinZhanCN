@@ -37,6 +37,9 @@
     <img src = "image/cc.svg" width  = "30" height = "30">
     <img src="/image/c.svg" width = "30" height = "30">
     <img src = "/image/kotlin-1.svg" width = "30" height = "30" >
+    <img src = "/image/react-2.svg width = "30" height = "30">
+    <img src = "/image/electron-1.svg width = "30" height = "30">
+    <img src = "/image/vitejs.svg width = "30" height = "30">
 </div>
 
 
