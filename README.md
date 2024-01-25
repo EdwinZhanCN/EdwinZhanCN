@@ -39,12 +39,12 @@
     <img src = "/image/kotlin-1.svg" width = "30" height = "30" >
     <img src = "/image/react-2.svg" width = "30" height = "30">
     <img src = "/image/electron-1.svg" width = "30" height = "30">
-    <img src = "/image/vitejs.svg" width = "30" height = "30">
+<!--     <img src = "/image/vitejs.svg" width = "30" height = "30">
     <img src = "/image/flutter.svg" width = "30" height = "30">
     <img src = "/image/typescript.svg" width = "30" height = "30">
     <img src = "/image/linux-tux.svg" width = "30" height = "30">
     <img src = "/image/azure-2.svg" width = "30" height = "30">
-    <img src = "/image/mysql-6.svg" width = "30" height = "30">
+    <img src = "/image/mysql-6.svg" width = "30" height = "30"> -->
 </div>
 
 
