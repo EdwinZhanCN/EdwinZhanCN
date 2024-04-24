@@ -49,7 +49,7 @@
 
 
 -----------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinZhanCN&langs_count=9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinZhanCN&langs_count=5)
 
 **Beautiful logos are found here**
 https://worldvectorlogo.com/
