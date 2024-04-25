@@ -8,18 +8,19 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
         <img src = "/image/logo-javascript.svg" alt="java-script-icon" width = "30" height="30">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML>">
+<!--     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML>">
         <img src = "/image/html-1.svg" alt="html-icon" width = "30" height="30">
     </a>
     <a href = https://developer.mozilla.org/en-US/docs/Web/CSS/Reference>
         <img src = "/image/css-3.svg" alt="css-icon" width = "30" height="30">
-    </a>
+    </a> -->
     <a href="https://developer.apple.com/swift/">
         <img src = "/image/swift-15.svg" alt="swift-icon" width = "30" height="30">
     </a>
     <a href="https://dev.java">
         <img src = "/image/java-4.svg" alt="java-icon" width = "30" height="30">
     </a>
+        <img src = "image/cc.svg" width  = "30" height = "30">
     <a href = "https://python.org">
         <img src="/image/python-5.svg" alt="python-icon" width="30" height="30">
     </a>
@@ -34,9 +35,8 @@
 
 **Future plan**
 <div>
-    <img src = "image/cc.svg" width  = "30" height = "30">
-    <img src="/image/c.svg" width = "30" height = "30">
-    <img src = "/image/kotlin-1.svg" width = "30" height = "30" >
+<!--     <img src="/image/c.svg" width = "30" height = "30">
+    <img src = "/image/kotlin-1.svg" width = "30" height = "30" > -->
     <img src = "/image/react-2.svg" width = "30" height = "30">
     <img src = "/image/electron-1.svg" width = "30" height = "30">
 <!--     <img src = "/image/vitejs.svg" width = "30" height = "30">
