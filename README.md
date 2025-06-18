@@ -1,2 +1,2 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinZhanCN&langs_count=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinZhanCN&langs_count=6)
 
