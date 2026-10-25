@@ -4,6 +4,6 @@ Programming Languages
 
 Tech Stacks
 
-[![My Languages](https://skillicons.dev/icons?i=docker,fastapi,pytorch,nodejs,react,wasm)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=docker,fastapi,pytorch,nodejs,react,wasm,cloudflare)](https://skillicons.dev)
 
 
