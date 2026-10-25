@@ -1,6 +1,6 @@
 Programming Languages
 
-[![My Languages](https://skillicons.dev/icons?i=go,python,ts,swift)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=go,ts,rust,python,swift)](https://skillicons.dev)
 
 Tech Stacks
 
